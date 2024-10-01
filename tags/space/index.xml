@@ -25,7 +25,7 @@
       
       <guid>http://localhost:1313/posts/secondpost/</guid>
       <description>This is the second post</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/secondpost/featured.jpg" />
     </item>
     
   </channel>
