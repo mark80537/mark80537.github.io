@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mark Frandson</copyright>
-    <lastBuildDate>Fri, 30 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/posts/firstpost/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/firstpost/</guid>
+      <description>This is the first post</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/firstpost/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Second Post</title>
+      <link>http://localhost:1313/posts/secondpost/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/secondpost/</guid>
+      <description>This is the second post</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/secondpost/featured.jpg" />
+    </item>
+    
     <item>
       <title>Cream Cheese Sugar Cookies</title>
       <link>http://localhost:1313/recipes/creamcheesesugarcookies/</link>
@@ -19,13 +39,23 @@
     </item>
     
     <item>
-      <title>First Post</title>
-      <link>http://localhost:1313/posts/firstpost/</link>
-      <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
+      <title>Greatest Dinner Rolls</title>
+      <link>http://localhost:1313/recipes/greatestdinnerrolls/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/firstpost/</guid>
-      <description>This is the first post</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/firstpost/featured.jpg" />
+      <guid>http://localhost:1313/recipes/greatestdinnerrolls/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/greatestdinnerrolls/featured-Dinner-Rolls.webp" />
+    </item>
+    
+    <item>
+      <title>Perfect Burger Buns</title>
+      <link>http://localhost:1313/recipes/perfectburgerbuns/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/recipes/perfectburgerbuns/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/perfectburgerbuns/featured-burger-buns.webp" />
     </item>
     
     <item>
@@ -36,16 +66,6 @@
       <guid>http://localhost:1313/books/gettingthingsdone/</guid>
       <description>A book about productivity</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/books/gettingthingsdone/featured-getting-things-done.jpg" />
-    </item>
-    
-    <item>
-      <title>Second Post</title>
-      <link>http://localhost:1313/posts/secondpost/</link>
-      <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/secondpost/</guid>
-      <description>This is the second post</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/secondpost/featured.jpg" />
     </item>
     
   </channel>
