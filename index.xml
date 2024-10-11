@@ -7,7 +7,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mark Frandson</copyright>
-    <lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chocolate Chip Cookies</title>
+      <link>http://localhost:1313/recipes/chocolatechipcookies/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/recipes/chocolatechipcookies/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/chocolatechipcookies/featured-chocolate-chip-cookie.webp" />
+    </item>
+    
+    <item>
+      <title>Devil&#39;s Food Cake</title>
+      <link>http://localhost:1313/recipes/devilsfoodcake/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/recipes/devilsfoodcake/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/devilsfoodcake/featured-Devils-Food-Cake.webp" />
+    </item>
+    
+    <item>
+      <title>Flour Tortillas</title>
+      <link>http://localhost:1313/recipes/flourtortillas/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/recipes/flourtortillas/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/flourtortillas/featured-Flour-Tortillas.webp" />
+    </item>
+    
+    <item>
+      <title>Taco Seasoned Ground Beef</title>
+      <link>http://localhost:1313/recipes/tacoseasongroundbeef/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/recipes/tacoseasongroundbeef/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/tacoseasongroundbeef/featured-tacoseasoning.webp" />
+    </item>
+    
     <item>
       <title>Tailgate Chili</title>
       <link>http://localhost:1313/recipes/tailgatechili/</link>
@@ -39,6 +79,26 @@
     </item>
     
     <item>
+      <title>Brioche Burger Buns</title>
+      <link>http://localhost:1313/recipes/briocheburgerbuns/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/recipes/briocheburgerbuns/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/briocheburgerbuns/featured-burger-buns.webp" />
+    </item>
+    
+    <item>
+      <title>Brioche Dinner Rolls</title>
+      <link>http://localhost:1313/recipes/briochedinnerrolls/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/recipes/briochedinnerrolls/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/briochedinnerrolls/featured-Dinner-Rolls.webp" />
+    </item>
+    
+    <item>
       <title>Cream Cheese Sugar Cookies</title>
       <link>http://localhost:1313/recipes/creamcheesesugarcookies/</link>
       <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
@@ -46,26 +106,6 @@
       <guid>http://localhost:1313/recipes/creamcheesesugarcookies/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/creamcheesesugarcookies/featured-creamcheesesugarcookies.jpg" />
-    </item>
-    
-    <item>
-      <title>Greatest Dinner Rolls</title>
-      <link>http://localhost:1313/recipes/greatestdinnerrolls/</link>
-      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/recipes/greatestdinnerrolls/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/greatestdinnerrolls/featured-Dinner-Rolls.webp" />
-    </item>
-    
-    <item>
-      <title>Perfect Burger Buns</title>
-      <link>http://localhost:1313/recipes/perfectburgerbuns/</link>
-      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/recipes/perfectburgerbuns/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/perfectburgerbuns/featured-burger-buns.webp" />
     </item>
     
     <item>

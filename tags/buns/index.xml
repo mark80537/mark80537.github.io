@@ -9,13 +9,13 @@
     <copyright>© 2024 Mark Frandson</copyright>
     <lastBuildDate>Fri, 30 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/buns/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Perfect Burger Buns</title>
-      <link>http://localhost:1313/recipes/perfectburgerbuns/</link>
+      <title>Brioche Burger Buns</title>
+      <link>http://localhost:1313/recipes/briocheburgerbuns/</link>
       <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/perfectburgerbuns/</guid>
+      <guid>http://localhost:1313/recipes/briocheburgerbuns/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/perfectburgerbuns/featured-burger-buns.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/briocheburgerbuns/featured-burger-buns.webp" />
     </item>
     
   </channel>
