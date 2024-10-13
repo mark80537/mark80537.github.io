@@ -10,22 +10,22 @@
     <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/space/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>http://localhost:1313/posts/firstpost/</link>
+      <link>http://localhost:1313/notes/firstpost/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/firstpost/</guid>
+      <guid>http://localhost:1313/notes/firstpost/</guid>
       <description>This is the first post</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/firstpost/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/notes/firstpost/featured.jpg" />
     </item>
     
     <item>
       <title>Second Post</title>
-      <link>http://localhost:1313/posts/secondpost/</link>
+      <link>http://localhost:1313/notes/secondpost/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/secondpost/</guid>
+      <guid>http://localhost:1313/notes/secondpost/</guid>
       <description>This is the second post</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/secondpost/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/notes/secondpost/featured.jpg" />
     </item>
     
   </channel>
