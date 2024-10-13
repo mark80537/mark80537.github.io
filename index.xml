@@ -110,12 +110,12 @@
     
     <item>
       <title>Getting Things Done</title>
-      <link>http://localhost:1313/books/gettingthingsdone/</link>
+      <link>http://localhost:1313/reads/gettingthingsdone/</link>
       <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/books/gettingthingsdone/</guid>
+      <guid>http://localhost:1313/reads/gettingthingsdone/</guid>
       <description>A book about productivity</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/books/gettingthingsdone/featured-getting-things-done.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/reads/gettingthingsdone/featured-getting-things-done.jpg" />
     </item>
     
   </channel>
