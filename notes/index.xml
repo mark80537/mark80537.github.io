@@ -7,25 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mark Frandson</copyright>
-    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Post</title>
-      <link>http://localhost:1313/notes/firstpost/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <title>Blue Iris Security Software</title>
+      <link>http://localhost:1313/notes/blueirissecurity/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/notes/firstpost/</guid>
-      <description>This is the first post</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/notes/firstpost/featured.jpg" />
+      <guid>http://localhost:1313/notes/blueirissecurity/</guid>
+      <description>Camera and Security Software</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/notes/blueirissecurity/featured-blue-iris-ip-camera.webp" />
     </item>
     
     <item>
-      <title>Second Post</title>
-      <link>http://localhost:1313/notes/secondpost/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <title>Obsidian</title>
+      <link>http://localhost:1313/notes/obsidian/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/notes/secondpost/</guid>
-      <description>This is the second post</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/notes/secondpost/featured.jpg" />
+      <guid>http://localhost:1313/notes/obsidian/</guid>
+      <description>An open source version based on Ubuntu 22.04</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/notes/obsidian/featured-obsidian.webp" />
+    </item>
+    
+    <item>
+      <title>Pop OS</title>
+      <link>http://localhost:1313/notes/popos/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/notes/popos/</guid>
+      <description>An open source version based on Ubuntu 22.04</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/notes/popos/featured-pop-os.webp" />
+    </item>
+    
+    <item>
+      <title>Virtual Machine Manager</title>
+      <link>http://localhost:1313/notes/virtualmachinemanager/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/notes/virtualmachinemanager/</guid>
+      <description>An open source version based on Ubuntu 22.04</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/notes/virtualmachinemanager/featured-virtual-machine-manager.webp" />
+    </item>
+    
+    <item>
+      <title>Windows 11 Virtual Machine</title>
+      <link>http://localhost:1313/notes/windows11virtualmachine/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/notes/windows11virtualmachine/</guid>
+      <description>An open source version based on Ubuntu 22.04</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/notes/windows11virtualmachine/featured-windows11-virtual-machine.webp" />
     </item>
     
   </channel>
