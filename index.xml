@@ -7,7 +7,97 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mark Frandson</copyright>
-    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BBQ dry rub</title>
+      <link>http://localhost:1313/recipes/chickenwingdryrub/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/recipes/chickenwingdryrub/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/chickenwingdryrub/featured-BBQ-Spice-Rub.webp" />
+    </item>
+    
+    <item>
+      <title>Buttermilk Biscuits</title>
+      <link>http://localhost:1313/recipes/buttermilkbiscuits/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/recipes/buttermilkbiscuits/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/buttermilkbiscuits/featured-Buttermilk-Biscuits.webp" />
+    </item>
+    
+    <item>
+      <title>Crescent Rolls</title>
+      <link>http://localhost:1313/recipes/crescentrolls/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/recipes/crescentrolls/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/crescentrolls/featured-crescent-rolls.jpg" />
+    </item>
+    
+    <item>
+      <title>Pie Dough</title>
+      <link>http://localhost:1313/recipes/piedough/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/recipes/piedough/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/piedough/featured-pie-dough.webp" />
+    </item>
+    
+    <item>
+      <title>Pop Overs</title>
+      <link>http://localhost:1313/recipes/popovers/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/recipes/popovers/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/popovers/featured-popOvers.webp" />
+    </item>
+    
+    <item>
+      <title>Rice Krispi Treats</title>
+      <link>http://localhost:1313/recipes/ricekrispytreats/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/recipes/ricekrispytreats/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/ricekrispytreats/featured-rice-krispi-treats.webp" />
+    </item>
+    
+    <item>
+      <title>Sloppy Joes</title>
+      <link>http://localhost:1313/recipes/sloppyjoes/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/recipes/sloppyjoes/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/sloppyjoes/featured-Sloppy-Joes.jpg" />
+    </item>
+    
+    <item>
+      <title>Sponge Cake</title>
+      <link>http://localhost:1313/recipes/spongecake/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/recipes/spongecake/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/spongecake/featured-sponge-cake.jpg" />
+    </item>
+    
+    <item>
+      <title>Thumbprint Cookies</title>
+      <link>http://localhost:1313/recipes/thumbprintcookies/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/recipes/thumbprintcookies/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/thumbprintcookies/featured-thumbprint-cookies.jpg" />
+    </item>
+    
     <item>
       <title>Blue Iris Security Software</title>
       <link>http://localhost:1313/notes/blueirissecurity/</link>
@@ -26,6 +116,16 @@
       <guid>http://localhost:1313/recipes/meatballs/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/meatballs/featured-Meatballs.webp" />
+    </item>
+    
+    <item>
+      <title>Meatloaf</title>
+      <link>http://localhost:1313/recipes/meatloaf/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/recipes/meatloaf/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/meatloaf/featured-meatloaf.webp" />
     </item>
     
     <item>

@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mark Frandson</copyright>
-    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/hamburger/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/hamburger/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sloppy Joes</title>
+      <link>http://localhost:1313/recipes/sloppyjoes/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/recipes/sloppyjoes/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/sloppyjoes/featured-Sloppy-Joes.jpg" />
+    </item>
+    
     <item>
       <title>Meatballs</title>
       <link>http://localhost:1313/recipes/meatballs/</link>
@@ -16,6 +26,16 @@
       <guid>http://localhost:1313/recipes/meatballs/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/meatballs/featured-Meatballs.webp" />
+    </item>
+    
+    <item>
+      <title>Meatloaf</title>
+      <link>http://localhost:1313/recipes/meatloaf/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/recipes/meatloaf/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/meatloaf/featured-meatloaf.webp" />
     </item>
     
     <item>

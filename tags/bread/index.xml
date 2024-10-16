@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mark Frandson</copyright>
-    <lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/bread/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/bread/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Buttermilk Biscuits</title>
+      <link>http://localhost:1313/recipes/buttermilkbiscuits/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/recipes/buttermilkbiscuits/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/buttermilkbiscuits/featured-Buttermilk-Biscuits.webp" />
+    </item>
+    
+    <item>
+      <title>Crescent Rolls</title>
+      <link>http://localhost:1313/recipes/crescentrolls/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/recipes/crescentrolls/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/crescentrolls/featured-crescent-rolls.jpg" />
+    </item>
+    
+    <item>
+      <title>Pop Overs</title>
+      <link>http://localhost:1313/recipes/popovers/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/recipes/popovers/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/popovers/featured-popOvers.webp" />
+    </item>
+    
     <item>
       <title>Flour Tortillas</title>
       <link>http://localhost:1313/recipes/flourtortillas/</link>
