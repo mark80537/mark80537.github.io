@@ -10,12 +10,12 @@
     <lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/recipes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BBQ dry rub</title>
-      <link>http://localhost:1313/recipes/chickenwingdryrub/</link>
+      <link>http://localhost:1313/recipes/bbqdryrub/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/chickenwingdryrub/</guid>
+      <guid>http://localhost:1313/recipes/bbqdryrub/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/chickenwingdryrub/featured-BBQ-Spice-Rub.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/bbqdryrub/featured-BBQ-Dry-Rub.webp" />
     </item>
     
     <item>
