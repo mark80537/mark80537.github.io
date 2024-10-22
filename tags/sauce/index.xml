@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sauce on Mark Frandson</title>
-    <link>http://localhost:1313/tags/sauce/</link>
+    <link>https://mark80537.github.io/tags/sauce/</link>
     <description>Recent content in Sauce on Mark Frandson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mark Frandson</copyright>
-    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/sauce/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mark80537.github.io/tags/sauce/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tomato Sauce</title>
-      <link>http://localhost:1313/recipes/tomatosauce/</link>
+      <link>https://mark80537.github.io/recipes/tomatosauce/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/tomatosauce/</guid>
+      <guid>https://mark80537.github.io/recipes/tomatosauce/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/tomatosauce/featured-tomato-sauce.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/tomatosauce/featured-tomato-sauce.jpg" />
     </item>
     
   </channel>

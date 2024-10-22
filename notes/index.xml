@@ -2,70 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes on Mark Frandson</title>
-    <link>http://localhost:1313/notes/</link>
+    <link>https://mark80537.github.io/notes/</link>
     <description>Recent content in Notes on Mark Frandson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mark Frandson</copyright>
-    <lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mark80537.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker Desktop</title>
-      <link>http://localhost:1313/notes/dockerdesktop/</link>
+      <link>https://mark80537.github.io/notes/dockerdesktop/</link>
       <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/notes/dockerdesktop/</guid>
+      <guid>https://mark80537.github.io/notes/dockerdesktop/</guid>
       <description>Versions for Windows, Mac &amp;amp; Linux</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/notes/dockerdesktop/featured-docker-desktop.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/notes/dockerdesktop/featured-docker-desktop.webp" />
     </item>
     
     <item>
       <title>Blue Iris Security Software</title>
-      <link>http://localhost:1313/notes/blueirissecurity/</link>
+      <link>https://mark80537.github.io/notes/blueirissecurity/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/notes/blueirissecurity/</guid>
+      <guid>https://mark80537.github.io/notes/blueirissecurity/</guid>
       <description>Camera and Security Software</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/notes/blueirissecurity/featured-blue-iris-ip-camera.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/notes/blueirissecurity/featured-blue-iris-ip-camera.webp" />
     </item>
     
     <item>
       <title>Obsidian</title>
-      <link>http://localhost:1313/notes/obsidian/</link>
+      <link>https://mark80537.github.io/notes/obsidian/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/notes/obsidian/</guid>
+      <guid>https://mark80537.github.io/notes/obsidian/</guid>
       <description>An open source version based on Ubuntu 22.04</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/notes/obsidian/featured-obsidian.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/notes/obsidian/featured-obsidian.webp" />
     </item>
     
     <item>
       <title>Pop OS</title>
-      <link>http://localhost:1313/notes/popos/</link>
+      <link>https://mark80537.github.io/notes/popos/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/notes/popos/</guid>
+      <guid>https://mark80537.github.io/notes/popos/</guid>
       <description>An open source version based on Ubuntu 22.04</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/notes/popos/featured-pop-os.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/notes/popos/featured-pop-os.webp" />
     </item>
     
     <item>
       <title>Virtual Machine Manager</title>
-      <link>http://localhost:1313/notes/virtualmachinemanager/</link>
+      <link>https://mark80537.github.io/notes/virtualmachinemanager/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/notes/virtualmachinemanager/</guid>
+      <guid>https://mark80537.github.io/notes/virtualmachinemanager/</guid>
       <description>An open source version based on Ubuntu 22.04</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/notes/virtualmachinemanager/featured-virtual-machine-manager.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/notes/virtualmachinemanager/featured-virtual-machine-manager.webp" />
     </item>
     
     <item>
       <title>Windows 11 Virtual Machine</title>
-      <link>http://localhost:1313/notes/windows11virtualmachine/</link>
+      <link>https://mark80537.github.io/notes/windows11virtualmachine/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/notes/windows11virtualmachine/</guid>
+      <guid>https://mark80537.github.io/notes/windows11virtualmachine/</guid>
       <description>An open source version based on Ubuntu 22.04</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/notes/windows11virtualmachine/featured-windows11-virtual-machine.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/notes/windows11virtualmachine/featured-windows11-virtual-machine.webp" />
     </item>
     
   </channel>

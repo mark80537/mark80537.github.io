@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mexican on Mark Frandson</title>
-    <link>http://localhost:1313/tags/mexican/</link>
+    <link>https://mark80537.github.io/tags/mexican/</link>
     <description>Recent content in Mexican on Mark Frandson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mark Frandson</copyright>
-    <lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/mexican/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mark80537.github.io/tags/mexican/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flour Tortillas</title>
-      <link>http://localhost:1313/recipes/flourtortillas/</link>
+      <link>https://mark80537.github.io/recipes/flourtortillas/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/flourtortillas/</guid>
+      <guid>https://mark80537.github.io/recipes/flourtortillas/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/flourtortillas/featured-Flour-Tortillas.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/flourtortillas/featured-Flour-Tortillas.webp" />
     </item>
     
     <item>
       <title>Taco Seasoned Ground Beef</title>
-      <link>http://localhost:1313/recipes/tacoseasongroundbeef/</link>
+      <link>https://mark80537.github.io/recipes/tacoseasongroundbeef/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/tacoseasongroundbeef/</guid>
+      <guid>https://mark80537.github.io/recipes/tacoseasongroundbeef/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/tacoseasongroundbeef/featured-tacoseasoning.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/tacoseasongroundbeef/featured-tacoseasoning.webp" />
     </item>
     
   </channel>
