@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mexican on Mark Frandson</title>
-    <link>https://mark80537.github.io/tags/mexican/</link>
+    <link>https://markfrandson.dev/tags/mexican/</link>
     <description>Recent content in Mexican on Mark Frandson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mark Frandson</copyright>
-    <lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mark80537.github.io/tags/mexican/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://markfrandson.dev/tags/mexican/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flour Tortillas</title>
-      <link>https://mark80537.github.io/recipes/flourtortillas/</link>
+      <link>https://markfrandson.dev/recipes/flourtortillas/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/flourtortillas/</guid>
+      <guid>https://markfrandson.dev/recipes/flourtortillas/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/flourtortillas/featured-Flour-Tortillas.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/flourtortillas/featured-Flour-Tortillas.webp" />
     </item>
     
     <item>
       <title>Taco Seasoned Ground Beef</title>
-      <link>https://mark80537.github.io/recipes/tacoseasongroundbeef/</link>
+      <link>https://markfrandson.dev/recipes/tacoseasongroundbeef/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/tacoseasongroundbeef/</guid>
+      <guid>https://markfrandson.dev/recipes/tacoseasongroundbeef/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/tacoseasongroundbeef/featured-tacoseasoning.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/tacoseasongroundbeef/featured-tacoseasoning.webp" />
     </item>
     
   </channel>

@@ -2,320 +2,330 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mark Frandson</title>
-    <link>https://mark80537.github.io/</link>
+    <link>https://markfrandson.dev/</link>
     <description>Recent content on Mark Frandson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mark Frandson</copyright>
-    <lastBuildDate>Sun, 20 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mark80537.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://markfrandson.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mini Pecan Pies</title>
+      <link>https://markfrandson.dev/recipes/minipecanpies/</link>
+      <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://markfrandson.dev/recipes/minipecanpies/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/minipecanpies/featured-Mini-pecan-pies-3.jpg.webp" />
+    </item>
+    
     <item>
       <title>Hugo and Blowfish</title>
-      <link>https://mark80537.github.io/notes/hugoandblowfish/</link>
+      <link>https://markfrandson.dev/notes/hugoandblowfish/</link>
       <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/notes/hugoandblowfish/</guid>
+      <guid>https://markfrandson.dev/notes/hugoandblowfish/</guid>
       <description>Versions for Windows, Mac &amp;amp; Linux</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/notes/hugoandblowfish/featured-hugoandblowfish.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/notes/hugoandblowfish/featured-hugoandblowfish.webp" />
     </item>
     
     <item>
       <title>Docker Desktop</title>
-      <link>https://mark80537.github.io/notes/dockerdesktop/</link>
+      <link>https://markfrandson.dev/notes/dockerdesktop/</link>
       <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/notes/dockerdesktop/</guid>
+      <guid>https://markfrandson.dev/notes/dockerdesktop/</guid>
       <description>Versions for Windows, Mac &amp;amp; Linux</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/notes/dockerdesktop/featured-docker-desktop.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/notes/dockerdesktop/featured-docker-desktop.webp" />
     </item>
     
     <item>
       <title>BBQ dry rub</title>
-      <link>https://mark80537.github.io/recipes/bbqdryrub/</link>
+      <link>https://markfrandson.dev/recipes/bbqdryrub/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/bbqdryrub/</guid>
+      <guid>https://markfrandson.dev/recipes/bbqdryrub/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/bbqdryrub/featured-BBQ-Dry-Rub.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/bbqdryrub/featured-BBQ-Dry-Rub.webp" />
     </item>
     
     <item>
       <title>Buttermilk Biscuits</title>
-      <link>https://mark80537.github.io/recipes/buttermilkbiscuits/</link>
+      <link>https://markfrandson.dev/recipes/buttermilkbiscuits/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/buttermilkbiscuits/</guid>
+      <guid>https://markfrandson.dev/recipes/buttermilkbiscuits/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/buttermilkbiscuits/featured-Buttermilk-Biscuits.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/buttermilkbiscuits/featured-Buttermilk-Biscuits.webp" />
     </item>
     
     <item>
       <title>Crescent Rolls</title>
-      <link>https://mark80537.github.io/recipes/crescentrolls/</link>
+      <link>https://markfrandson.dev/recipes/crescentrolls/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/crescentrolls/</guid>
+      <guid>https://markfrandson.dev/recipes/crescentrolls/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/crescentrolls/featured-crescent-rolls.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/crescentrolls/featured-crescent-rolls.jpg" />
     </item>
     
     <item>
       <title>Pie Dough</title>
-      <link>https://mark80537.github.io/recipes/piedough/</link>
+      <link>https://markfrandson.dev/recipes/piedough/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/piedough/</guid>
+      <guid>https://markfrandson.dev/recipes/piedough/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/piedough/featured-pie-dough.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/piedough/featured-pie-dough.webp" />
     </item>
     
     <item>
       <title>Pop Overs</title>
-      <link>https://mark80537.github.io/recipes/popovers/</link>
+      <link>https://markfrandson.dev/recipes/popovers/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/popovers/</guid>
+      <guid>https://markfrandson.dev/recipes/popovers/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/popovers/featured-popOvers.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/popovers/featured-popOvers.webp" />
     </item>
     
     <item>
       <title>Rice Krispi Treats</title>
-      <link>https://mark80537.github.io/recipes/ricekrispytreats/</link>
+      <link>https://markfrandson.dev/recipes/ricekrispytreats/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/ricekrispytreats/</guid>
+      <guid>https://markfrandson.dev/recipes/ricekrispytreats/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/ricekrispytreats/featured-rice-krispi-treats.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/ricekrispytreats/featured-rice-krispi-treats.webp" />
     </item>
     
     <item>
       <title>Sloppy Joes</title>
-      <link>https://mark80537.github.io/recipes/sloppyjoes/</link>
+      <link>https://markfrandson.dev/recipes/sloppyjoes/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/sloppyjoes/</guid>
+      <guid>https://markfrandson.dev/recipes/sloppyjoes/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/sloppyjoes/featured-Sloppy-Joes.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/sloppyjoes/featured-Sloppy-Joes.jpg" />
     </item>
     
     <item>
       <title>Sponge Cake</title>
-      <link>https://mark80537.github.io/recipes/spongecake/</link>
+      <link>https://markfrandson.dev/recipes/spongecake/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/spongecake/</guid>
+      <guid>https://markfrandson.dev/recipes/spongecake/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/spongecake/featured-sponge-cake.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/spongecake/featured-sponge-cake.jpg" />
     </item>
     
     <item>
       <title>Thumbprint Cookies</title>
-      <link>https://mark80537.github.io/recipes/thumbprintcookies/</link>
+      <link>https://markfrandson.dev/recipes/thumbprintcookies/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/thumbprintcookies/</guid>
+      <guid>https://markfrandson.dev/recipes/thumbprintcookies/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/thumbprintcookies/featured-thumbprint-cookies.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/thumbprintcookies/featured-thumbprint-cookies.jpg" />
     </item>
     
     <item>
       <title>Blue Iris Security Software</title>
-      <link>https://mark80537.github.io/notes/blueirissecurity/</link>
+      <link>https://markfrandson.dev/notes/blueirissecurity/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/notes/blueirissecurity/</guid>
+      <guid>https://markfrandson.dev/notes/blueirissecurity/</guid>
       <description>Camera and Security Software</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/notes/blueirissecurity/featured-blue-iris-ip-camera.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/notes/blueirissecurity/featured-blue-iris-ip-camera.webp" />
     </item>
     
     <item>
       <title>Meatballs</title>
-      <link>https://mark80537.github.io/recipes/meatballs/</link>
+      <link>https://markfrandson.dev/recipes/meatballs/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/meatballs/</guid>
+      <guid>https://markfrandson.dev/recipes/meatballs/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/meatballs/featured-Meatballs.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/meatballs/featured-Meatballs.webp" />
     </item>
     
     <item>
       <title>Meatloaf</title>
-      <link>https://mark80537.github.io/recipes/meatloaf/</link>
+      <link>https://markfrandson.dev/recipes/meatloaf/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/meatloaf/</guid>
+      <guid>https://markfrandson.dev/recipes/meatloaf/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/meatloaf/featured-meatloaf.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/meatloaf/featured-meatloaf.webp" />
     </item>
     
     <item>
       <title>Obsidian</title>
-      <link>https://mark80537.github.io/notes/obsidian/</link>
+      <link>https://markfrandson.dev/notes/obsidian/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/notes/obsidian/</guid>
+      <guid>https://markfrandson.dev/notes/obsidian/</guid>
       <description>An open source version based on Ubuntu 22.04</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/notes/obsidian/featured-obsidian.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/notes/obsidian/featured-obsidian.webp" />
     </item>
     
     <item>
       <title>Pop OS</title>
-      <link>https://mark80537.github.io/notes/popos/</link>
+      <link>https://markfrandson.dev/notes/popos/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/notes/popos/</guid>
+      <guid>https://markfrandson.dev/notes/popos/</guid>
       <description>An open source version based on Ubuntu 22.04</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/notes/popos/featured-pop-os.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/notes/popos/featured-pop-os.webp" />
     </item>
     
     <item>
       <title>Tomato Sauce</title>
-      <link>https://mark80537.github.io/recipes/tomatosauce/</link>
+      <link>https://markfrandson.dev/recipes/tomatosauce/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/tomatosauce/</guid>
+      <guid>https://markfrandson.dev/recipes/tomatosauce/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/tomatosauce/featured-tomato-sauce.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/tomatosauce/featured-tomato-sauce.jpg" />
     </item>
     
     <item>
       <title>Virtual Machine Manager</title>
-      <link>https://mark80537.github.io/notes/virtualmachinemanager/</link>
+      <link>https://markfrandson.dev/notes/virtualmachinemanager/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/notes/virtualmachinemanager/</guid>
+      <guid>https://markfrandson.dev/notes/virtualmachinemanager/</guid>
       <description>An open source version based on Ubuntu 22.04</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/notes/virtualmachinemanager/featured-virtual-machine-manager.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/notes/virtualmachinemanager/featured-virtual-machine-manager.webp" />
     </item>
     
     <item>
       <title>Windows 11 Virtual Machine</title>
-      <link>https://mark80537.github.io/notes/windows11virtualmachine/</link>
+      <link>https://markfrandson.dev/notes/windows11virtualmachine/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/notes/windows11virtualmachine/</guid>
+      <guid>https://markfrandson.dev/notes/windows11virtualmachine/</guid>
       <description>An open source version based on Ubuntu 22.04</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/notes/windows11virtualmachine/featured-windows11-virtual-machine.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/notes/windows11virtualmachine/featured-windows11-virtual-machine.webp" />
     </item>
     
     <item>
       <title>French Vanilla Ice Cream</title>
-      <link>https://mark80537.github.io/recipes/frenchvanillaicecream/</link>
+      <link>https://markfrandson.dev/recipes/frenchvanillaicecream/</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/frenchvanillaicecream/</guid>
+      <guid>https://markfrandson.dev/recipes/frenchvanillaicecream/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/frenchvanillaicecream/featured-french-vanilla-ice-cream.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/frenchvanillaicecream/featured-french-vanilla-ice-cream.webp" />
     </item>
     
     <item>
       <title>Vanilla Ice Cream No Cook</title>
-      <link>https://mark80537.github.io/recipes/vanillaicecreamnocook/</link>
+      <link>https://markfrandson.dev/recipes/vanillaicecreamnocook/</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/vanillaicecreamnocook/</guid>
+      <guid>https://markfrandson.dev/recipes/vanillaicecreamnocook/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/vanillaicecreamnocook/featured-vanilla-ice-cream.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/vanillaicecreamnocook/featured-vanilla-ice-cream.webp" />
     </item>
     
     <item>
       <title>Chocolate Chip Cookies</title>
-      <link>https://mark80537.github.io/recipes/chocolatechipcookies/</link>
+      <link>https://markfrandson.dev/recipes/chocolatechipcookies/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/chocolatechipcookies/</guid>
+      <guid>https://markfrandson.dev/recipes/chocolatechipcookies/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/chocolatechipcookies/featured-chocolate-chip-cookie.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/chocolatechipcookies/featured-chocolate-chip-cookie.webp" />
     </item>
     
     <item>
       <title>Devil&#39;s Food Cake</title>
-      <link>https://mark80537.github.io/recipes/devilsfoodcake/</link>
+      <link>https://markfrandson.dev/recipes/devilsfoodcake/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/devilsfoodcake/</guid>
+      <guid>https://markfrandson.dev/recipes/devilsfoodcake/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/devilsfoodcake/featured-Devils-Food-Cake.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/devilsfoodcake/featured-Devils-Food-Cake.webp" />
     </item>
     
     <item>
       <title>Flour Tortillas</title>
-      <link>https://mark80537.github.io/recipes/flourtortillas/</link>
+      <link>https://markfrandson.dev/recipes/flourtortillas/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/flourtortillas/</guid>
+      <guid>https://markfrandson.dev/recipes/flourtortillas/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/flourtortillas/featured-Flour-Tortillas.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/flourtortillas/featured-Flour-Tortillas.webp" />
     </item>
     
     <item>
       <title>Taco Seasoned Ground Beef</title>
-      <link>https://mark80537.github.io/recipes/tacoseasongroundbeef/</link>
+      <link>https://markfrandson.dev/recipes/tacoseasongroundbeef/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/tacoseasongroundbeef/</guid>
+      <guid>https://markfrandson.dev/recipes/tacoseasongroundbeef/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/tacoseasongroundbeef/featured-tacoseasoning.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/tacoseasongroundbeef/featured-tacoseasoning.webp" />
     </item>
     
     <item>
       <title>Tailgate Chili</title>
-      <link>https://mark80537.github.io/recipes/tailgatechili/</link>
+      <link>https://markfrandson.dev/recipes/tailgatechili/</link>
       <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/tailgatechili/</guid>
+      <guid>https://markfrandson.dev/recipes/tailgatechili/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/tailgatechili/featured-chili.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/tailgatechili/featured-chili.webp" />
     </item>
     
     <item>
       <title>Brioche Burger Buns</title>
-      <link>https://mark80537.github.io/recipes/briocheburgerbuns/</link>
+      <link>https://markfrandson.dev/recipes/briocheburgerbuns/</link>
       <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/briocheburgerbuns/</guid>
+      <guid>https://markfrandson.dev/recipes/briocheburgerbuns/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/briocheburgerbuns/featured-burger-buns.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/briocheburgerbuns/featured-burger-buns.webp" />
     </item>
     
     <item>
       <title>Brioche Dinner Rolls</title>
-      <link>https://mark80537.github.io/recipes/briochedinnerrolls/</link>
+      <link>https://markfrandson.dev/recipes/briochedinnerrolls/</link>
       <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/briochedinnerrolls/</guid>
+      <guid>https://markfrandson.dev/recipes/briochedinnerrolls/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/briochedinnerrolls/featured-Dinner-Rolls.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/briochedinnerrolls/featured-Dinner-Rolls.webp" />
     </item>
     
     <item>
       <title>Chocolate Mint Sandwich Cookies</title>
-      <link>https://mark80537.github.io/recipes/chocolatmintsandwichcookies/</link>
+      <link>https://markfrandson.dev/recipes/chocolatmintsandwichcookies/</link>
       <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/chocolatmintsandwichcookies/</guid>
+      <guid>https://markfrandson.dev/recipes/chocolatmintsandwichcookies/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/chocolatmintsandwichcookies/featured-Chocolate-Mint-Sandwich.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/chocolatmintsandwichcookies/featured-Chocolate-Mint-Sandwich.webp" />
     </item>
     
     <item>
       <title>Cream Cheese Sugar Cookies</title>
-      <link>https://mark80537.github.io/recipes/creamcheesesugarcookies/</link>
+      <link>https://markfrandson.dev/recipes/creamcheesesugarcookies/</link>
       <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/creamcheesesugarcookies/</guid>
+      <guid>https://markfrandson.dev/recipes/creamcheesesugarcookies/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/creamcheesesugarcookies/featured-creamcheesesugarcookies.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/creamcheesesugarcookies/featured-creamcheesesugarcookies.jpg" />
     </item>
     
     <item>
       <title>Getting Things Done</title>
-      <link>https://mark80537.github.io/reads/gettingthingsdone/</link>
+      <link>https://markfrandson.dev/reads/gettingthingsdone/</link>
       <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/reads/gettingthingsdone/</guid>
+      <guid>https://markfrandson.dev/reads/gettingthingsdone/</guid>
       <description>A book about productivity</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/reads/gettingthingsdone/featured-getting-things-done.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/reads/gettingthingsdone/featured-getting-things-done.jpg" />
     </item>
     
   </channel>

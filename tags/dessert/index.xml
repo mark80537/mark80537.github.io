@@ -2,110 +2,120 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dessert on Mark Frandson</title>
-    <link>https://mark80537.github.io/tags/dessert/</link>
+    <link>https://markfrandson.dev/tags/dessert/</link>
     <description>Recent content in Dessert on Mark Frandson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mark Frandson</copyright>
-    <lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mark80537.github.io/tags/dessert/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://markfrandson.dev/tags/dessert/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mini Pecan Pies</title>
+      <link>https://markfrandson.dev/recipes/minipecanpies/</link>
+      <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://markfrandson.dev/recipes/minipecanpies/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/minipecanpies/featured-Mini-pecan-pies-3.jpg.webp" />
+    </item>
+    
     <item>
       <title>Pie Dough</title>
-      <link>https://mark80537.github.io/recipes/piedough/</link>
+      <link>https://markfrandson.dev/recipes/piedough/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/piedough/</guid>
+      <guid>https://markfrandson.dev/recipes/piedough/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/piedough/featured-pie-dough.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/piedough/featured-pie-dough.webp" />
     </item>
     
     <item>
       <title>Rice Krispi Treats</title>
-      <link>https://mark80537.github.io/recipes/ricekrispytreats/</link>
+      <link>https://markfrandson.dev/recipes/ricekrispytreats/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/ricekrispytreats/</guid>
+      <guid>https://markfrandson.dev/recipes/ricekrispytreats/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/ricekrispytreats/featured-rice-krispi-treats.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/ricekrispytreats/featured-rice-krispi-treats.webp" />
     </item>
     
     <item>
       <title>Sponge Cake</title>
-      <link>https://mark80537.github.io/recipes/spongecake/</link>
+      <link>https://markfrandson.dev/recipes/spongecake/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/spongecake/</guid>
+      <guid>https://markfrandson.dev/recipes/spongecake/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/spongecake/featured-sponge-cake.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/spongecake/featured-sponge-cake.jpg" />
     </item>
     
     <item>
       <title>Thumbprint Cookies</title>
-      <link>https://mark80537.github.io/recipes/thumbprintcookies/</link>
+      <link>https://markfrandson.dev/recipes/thumbprintcookies/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/thumbprintcookies/</guid>
+      <guid>https://markfrandson.dev/recipes/thumbprintcookies/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/thumbprintcookies/featured-thumbprint-cookies.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/thumbprintcookies/featured-thumbprint-cookies.jpg" />
     </item>
     
     <item>
       <title>French Vanilla Ice Cream</title>
-      <link>https://mark80537.github.io/recipes/frenchvanillaicecream/</link>
+      <link>https://markfrandson.dev/recipes/frenchvanillaicecream/</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/frenchvanillaicecream/</guid>
+      <guid>https://markfrandson.dev/recipes/frenchvanillaicecream/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/frenchvanillaicecream/featured-french-vanilla-ice-cream.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/frenchvanillaicecream/featured-french-vanilla-ice-cream.webp" />
     </item>
     
     <item>
       <title>Vanilla Ice Cream No Cook</title>
-      <link>https://mark80537.github.io/recipes/vanillaicecreamnocook/</link>
+      <link>https://markfrandson.dev/recipes/vanillaicecreamnocook/</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/vanillaicecreamnocook/</guid>
+      <guid>https://markfrandson.dev/recipes/vanillaicecreamnocook/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/vanillaicecreamnocook/featured-vanilla-ice-cream.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/vanillaicecreamnocook/featured-vanilla-ice-cream.webp" />
     </item>
     
     <item>
       <title>Chocolate Chip Cookies</title>
-      <link>https://mark80537.github.io/recipes/chocolatechipcookies/</link>
+      <link>https://markfrandson.dev/recipes/chocolatechipcookies/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/chocolatechipcookies/</guid>
+      <guid>https://markfrandson.dev/recipes/chocolatechipcookies/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/chocolatechipcookies/featured-chocolate-chip-cookie.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/chocolatechipcookies/featured-chocolate-chip-cookie.webp" />
     </item>
     
     <item>
       <title>Devil&#39;s Food Cake</title>
-      <link>https://mark80537.github.io/recipes/devilsfoodcake/</link>
+      <link>https://markfrandson.dev/recipes/devilsfoodcake/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/devilsfoodcake/</guid>
+      <guid>https://markfrandson.dev/recipes/devilsfoodcake/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/devilsfoodcake/featured-Devils-Food-Cake.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/devilsfoodcake/featured-Devils-Food-Cake.webp" />
     </item>
     
     <item>
       <title>Chocolate Mint Sandwich Cookies</title>
-      <link>https://mark80537.github.io/recipes/chocolatmintsandwichcookies/</link>
+      <link>https://markfrandson.dev/recipes/chocolatmintsandwichcookies/</link>
       <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/chocolatmintsandwichcookies/</guid>
+      <guid>https://markfrandson.dev/recipes/chocolatmintsandwichcookies/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/chocolatmintsandwichcookies/featured-Chocolate-Mint-Sandwich.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/chocolatmintsandwichcookies/featured-Chocolate-Mint-Sandwich.webp" />
     </item>
     
     <item>
       <title>Cream Cheese Sugar Cookies</title>
-      <link>https://mark80537.github.io/recipes/creamcheesesugarcookies/</link>
+      <link>https://markfrandson.dev/recipes/creamcheesesugarcookies/</link>
       <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/creamcheesesugarcookies/</guid>
+      <guid>https://markfrandson.dev/recipes/creamcheesesugarcookies/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/creamcheesesugarcookies/featured-creamcheesesugarcookies.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/creamcheesesugarcookies/featured-creamcheesesugarcookies.jpg" />
     </item>
     
   </channel>

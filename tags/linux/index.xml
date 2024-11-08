@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on Mark Frandson</title>
-    <link>https://mark80537.github.io/tags/linux/</link>
+    <link>https://markfrandson.dev/tags/linux/</link>
     <description>Recent content in Linux on Mark Frandson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mark Frandson</copyright>
-    <lastBuildDate>Sun, 20 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mark80537.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://markfrandson.dev/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo and Blowfish</title>
-      <link>https://mark80537.github.io/notes/hugoandblowfish/</link>
+      <link>https://markfrandson.dev/notes/hugoandblowfish/</link>
       <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/notes/hugoandblowfish/</guid>
+      <guid>https://markfrandson.dev/notes/hugoandblowfish/</guid>
       <description>Versions for Windows, Mac &amp;amp; Linux</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/notes/hugoandblowfish/featured-hugoandblowfish.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/notes/hugoandblowfish/featured-hugoandblowfish.webp" />
     </item>
     
     <item>
       <title>Docker Desktop</title>
-      <link>https://mark80537.github.io/notes/dockerdesktop/</link>
+      <link>https://markfrandson.dev/notes/dockerdesktop/</link>
       <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/notes/dockerdesktop/</guid>
+      <guid>https://markfrandson.dev/notes/dockerdesktop/</guid>
       <description>Versions for Windows, Mac &amp;amp; Linux</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/notes/dockerdesktop/featured-docker-desktop.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/notes/dockerdesktop/featured-docker-desktop.webp" />
     </item>
     
     <item>
       <title>Pop OS</title>
-      <link>https://mark80537.github.io/notes/popos/</link>
+      <link>https://markfrandson.dev/notes/popos/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/notes/popos/</guid>
+      <guid>https://markfrandson.dev/notes/popos/</guid>
       <description>An open source version based on Ubuntu 22.04</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/notes/popos/featured-pop-os.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/notes/popos/featured-pop-os.webp" />
     </item>
     
     <item>
       <title>Virtual Machine Manager</title>
-      <link>https://mark80537.github.io/notes/virtualmachinemanager/</link>
+      <link>https://markfrandson.dev/notes/virtualmachinemanager/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/notes/virtualmachinemanager/</guid>
+      <guid>https://markfrandson.dev/notes/virtualmachinemanager/</guid>
       <description>An open source version based on Ubuntu 22.04</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/notes/virtualmachinemanager/featured-virtual-machine-manager.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/notes/virtualmachinemanager/featured-virtual-machine-manager.webp" />
     </item>
     
     <item>
       <title>Windows 11 Virtual Machine</title>
-      <link>https://mark80537.github.io/notes/windows11virtualmachine/</link>
+      <link>https://markfrandson.dev/notes/windows11virtualmachine/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/notes/windows11virtualmachine/</guid>
+      <guid>https://markfrandson.dev/notes/windows11virtualmachine/</guid>
       <description>An open source version based on Ubuntu 22.04</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/notes/windows11virtualmachine/featured-windows11-virtual-machine.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/notes/windows11virtualmachine/featured-windows11-virtual-machine.webp" />
     </item>
     
   </channel>

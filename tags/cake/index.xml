@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cake on Mark Frandson</title>
-    <link>https://mark80537.github.io/tags/cake/</link>
+    <link>https://markfrandson.dev/tags/cake/</link>
     <description>Recent content in Cake on Mark Frandson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mark Frandson</copyright>
-    <lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mark80537.github.io/tags/cake/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://markfrandson.dev/tags/cake/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sponge Cake</title>
-      <link>https://mark80537.github.io/recipes/spongecake/</link>
+      <link>https://markfrandson.dev/recipes/spongecake/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/spongecake/</guid>
+      <guid>https://markfrandson.dev/recipes/spongecake/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/spongecake/featured-sponge-cake.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/spongecake/featured-sponge-cake.jpg" />
     </item>
     
     <item>
       <title>Devil&#39;s Food Cake</title>
-      <link>https://mark80537.github.io/recipes/devilsfoodcake/</link>
+      <link>https://markfrandson.dev/recipes/devilsfoodcake/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/devilsfoodcake/</guid>
+      <guid>https://markfrandson.dev/recipes/devilsfoodcake/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/devilsfoodcake/featured-Devils-Food-Cake.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/devilsfoodcake/featured-Devils-Food-Cake.webp" />
     </item>
     
   </channel>

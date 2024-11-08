@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notetaking on Mark Frandson</title>
-    <link>https://mark80537.github.io/tags/notetaking/</link>
+    <link>https://markfrandson.dev/tags/notetaking/</link>
     <description>Recent content in Notetaking on Mark Frandson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mark Frandson</copyright>
-    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mark80537.github.io/tags/notetaking/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://markfrandson.dev/tags/notetaking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Obsidian</title>
-      <link>https://mark80537.github.io/notes/obsidian/</link>
+      <link>https://markfrandson.dev/notes/obsidian/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/notes/obsidian/</guid>
+      <guid>https://markfrandson.dev/notes/obsidian/</guid>
       <description>An open source version based on Ubuntu 22.04</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/notes/obsidian/featured-obsidian.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/notes/obsidian/featured-obsidian.webp" />
     </item>
     
   </channel>

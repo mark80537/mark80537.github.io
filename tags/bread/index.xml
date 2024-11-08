@@ -2,70 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bread on Mark Frandson</title>
-    <link>https://mark80537.github.io/tags/bread/</link>
+    <link>https://markfrandson.dev/tags/bread/</link>
     <description>Recent content in Bread on Mark Frandson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mark Frandson</copyright>
-    <lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mark80537.github.io/tags/bread/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://markfrandson.dev/tags/bread/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Buttermilk Biscuits</title>
-      <link>https://mark80537.github.io/recipes/buttermilkbiscuits/</link>
+      <link>https://markfrandson.dev/recipes/buttermilkbiscuits/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/buttermilkbiscuits/</guid>
+      <guid>https://markfrandson.dev/recipes/buttermilkbiscuits/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/buttermilkbiscuits/featured-Buttermilk-Biscuits.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/buttermilkbiscuits/featured-Buttermilk-Biscuits.webp" />
     </item>
     
     <item>
       <title>Crescent Rolls</title>
-      <link>https://mark80537.github.io/recipes/crescentrolls/</link>
+      <link>https://markfrandson.dev/recipes/crescentrolls/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/crescentrolls/</guid>
+      <guid>https://markfrandson.dev/recipes/crescentrolls/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/crescentrolls/featured-crescent-rolls.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/crescentrolls/featured-crescent-rolls.jpg" />
     </item>
     
     <item>
       <title>Pop Overs</title>
-      <link>https://mark80537.github.io/recipes/popovers/</link>
+      <link>https://markfrandson.dev/recipes/popovers/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/popovers/</guid>
+      <guid>https://markfrandson.dev/recipes/popovers/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/popovers/featured-popOvers.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/popovers/featured-popOvers.webp" />
     </item>
     
     <item>
       <title>Flour Tortillas</title>
-      <link>https://mark80537.github.io/recipes/flourtortillas/</link>
+      <link>https://markfrandson.dev/recipes/flourtortillas/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/flourtortillas/</guid>
+      <guid>https://markfrandson.dev/recipes/flourtortillas/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/flourtortillas/featured-Flour-Tortillas.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/flourtortillas/featured-Flour-Tortillas.webp" />
     </item>
     
     <item>
       <title>Brioche Burger Buns</title>
-      <link>https://mark80537.github.io/recipes/briocheburgerbuns/</link>
+      <link>https://markfrandson.dev/recipes/briocheburgerbuns/</link>
       <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/briocheburgerbuns/</guid>
+      <guid>https://markfrandson.dev/recipes/briocheburgerbuns/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/briocheburgerbuns/featured-burger-buns.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/briocheburgerbuns/featured-burger-buns.webp" />
     </item>
     
     <item>
       <title>Brioche Dinner Rolls</title>
-      <link>https://mark80537.github.io/recipes/briochedinnerrolls/</link>
+      <link>https://markfrandson.dev/recipes/briochedinnerrolls/</link>
       <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mark80537.github.io/recipes/briochedinnerrolls/</guid>
+      <guid>https://markfrandson.dev/recipes/briochedinnerrolls/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mark80537.github.io/recipes/briochedinnerrolls/featured-Dinner-Rolls.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/briochedinnerrolls/featured-Dinner-Rolls.webp" />
     </item>
     
   </channel>
