@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mark Frandson</copyright>
-    <lastBuildDate>Sun, 03 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://markfrandson.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://markfrandson.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cookies</title>
-      <link>https://markfrandson.dev/tags/cookies/</link>
-      <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
+      <title>Cake</title>
+      <link>https://markfrandson.dev/tags/cake/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://markfrandson.dev/tags/cookies/</guid>
+      <guid>https://markfrandson.dev/tags/cake/</guid>
       <description></description>
       
     </item>
@@ -21,9 +21,39 @@
     <item>
       <title>Dessert</title>
       <link>https://markfrandson.dev/tags/dessert/</link>
-      <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
       
       <guid>https://markfrandson.dev/tags/dessert/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://markfrandson.dev/tags/security/</link>
+      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://markfrandson.dev/tags/security/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>https://markfrandson.dev/tags/windows/</link>
+      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://markfrandson.dev/tags/windows/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cookies</title>
+      <link>https://markfrandson.dev/tags/cookies/</link>
+      <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://markfrandson.dev/tags/cookies/</guid>
       <description></description>
       
     </item>
@@ -59,16 +89,6 @@
     </item>
     
     <item>
-      <title>Windows</title>
-      <link>https://markfrandson.dev/tags/windows/</link>
-      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://markfrandson.dev/tags/windows/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Biscuits</title>
       <link>https://markfrandson.dev/tags/biscuits/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
@@ -84,16 +104,6 @@
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
       <guid>https://markfrandson.dev/tags/bread/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Cake</title>
-      <link>https://markfrandson.dev/tags/cake/</link>
-      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://markfrandson.dev/tags/cake/</guid>
       <description></description>
       
     </item>
@@ -184,16 +194,6 @@
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       
       <guid>https://markfrandson.dev/tags/sauce/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Security</title>
-      <link>https://markfrandson.dev/tags/security/</link>
-      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://markfrandson.dev/tags/security/</guid>
       <description></description>
       
     </item>

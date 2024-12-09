@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mark Frandson</copyright>
-    <lastBuildDate>Sun, 20 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://markfrandson.dev/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://markfrandson.dev/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blue Iris Security Software</title>
+      <link>https://markfrandson.dev/notes/blueirissecurity/</link>
+      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://markfrandson.dev/notes/blueirissecurity/</guid>
+      <description>Camera and Security Software</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/notes/blueirissecurity/featured-blue-iris-ip-camera.webp" />
+    </item>
+    
     <item>
       <title>Hugo and Blowfish</title>
       <link>https://markfrandson.dev/notes/hugoandblowfish/</link>
@@ -26,16 +36,6 @@
       <guid>https://markfrandson.dev/notes/dockerdesktop/</guid>
       <description>Versions for Windows, Mac &amp;amp; Linux</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/notes/dockerdesktop/featured-docker-desktop.webp" />
-    </item>
-    
-    <item>
-      <title>Blue Iris Security Software</title>
-      <link>https://markfrandson.dev/notes/blueirissecurity/</link>
-      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://markfrandson.dev/notes/blueirissecurity/</guid>
-      <description>Camera and Security Software</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/notes/blueirissecurity/featured-blue-iris-ip-camera.webp" />
     </item>
     
   </channel>

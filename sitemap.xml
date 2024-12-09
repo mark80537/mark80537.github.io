@@ -3,8 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://markfrandson.dev/recipes/blueberrybuckle/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://markfrandson.dev/</loc>
-    <lastmod>2024-11-03T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://markfrandson.dev/recipes/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://markfrandson.dev/notes/blueirissecurity/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://markfrandson.dev/notes/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -15,19 +39,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/recipes/</loc>
-    <lastmod>2024-11-03T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://markfrandson.dev/notes/hugoandblowfish/</loc>
-    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://markfrandson.dev/notes/</loc>
     <lastmod>2024-10-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -89,12 +101,6 @@
   <url>
     <loc>https://markfrandson.dev/recipes/thumbprintcookies/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://markfrandson.dev/notes/blueirissecurity/</loc>
-    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

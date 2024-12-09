@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mark Frandson</copyright>
-    <lastBuildDate>Sun, 03 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://markfrandson.dev/tags/dessert/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://markfrandson.dev/tags/dessert/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blueberry Buckle</title>
+      <link>https://markfrandson.dev/recipes/blueberrybuckle/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://markfrandson.dev/recipes/blueberrybuckle/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/blueberrybuckle/featured-blueberry-buckle-coffeecake.webp" />
+    </item>
+    
     <item>
       <title>Mini Pecan Pies</title>
       <link>https://markfrandson.dev/recipes/minipecanpies/</link>
