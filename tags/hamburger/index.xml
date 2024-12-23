@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hamburger on Mark Frandson</title>
-    <link>http://localhost:1313/tags/hamburger/</link>
+    <link>https://markfrandson.dev/tags/hamburger/</link>
     <description>Recent content in Hamburger on Mark Frandson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mark Frandson</copyright>
-    <lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/hamburger/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://markfrandson.dev/tags/hamburger/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sloppy Joes</title>
-      <link>http://localhost:1313/recipes/sloppyjoes/</link>
+      <link>https://markfrandson.dev/recipes/sloppyjoes/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/sloppyjoes/</guid>
+      <guid>https://markfrandson.dev/recipes/sloppyjoes/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/sloppyjoes/featured-Sloppy-Joes.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/sloppyjoes/featured-Sloppy-Joes.jpg" />
     </item>
     
     <item>
       <title>Meatballs</title>
-      <link>http://localhost:1313/recipes/meatballs/</link>
+      <link>https://markfrandson.dev/recipes/meatballs/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/meatballs/</guid>
+      <guid>https://markfrandson.dev/recipes/meatballs/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/meatballs/featured-Meatballs.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/meatballs/featured-Meatballs.webp" />
     </item>
     
     <item>
       <title>Meatloaf</title>
-      <link>http://localhost:1313/recipes/meatloaf/</link>
+      <link>https://markfrandson.dev/recipes/meatloaf/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/meatloaf/</guid>
+      <guid>https://markfrandson.dev/recipes/meatloaf/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/meatloaf/featured-meatloaf.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/meatloaf/featured-meatloaf.webp" />
     </item>
     
     <item>
       <title>Taco Seasoned Ground Beef</title>
-      <link>http://localhost:1313/recipes/tacoseasongroundbeef/</link>
+      <link>https://markfrandson.dev/recipes/tacoseasongroundbeef/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/tacoseasongroundbeef/</guid>
+      <guid>https://markfrandson.dev/recipes/tacoseasongroundbeef/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/tacoseasongroundbeef/featured-tacoseasoning.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/tacoseasongroundbeef/featured-tacoseasoning.webp" />
     </item>
     
   </channel>

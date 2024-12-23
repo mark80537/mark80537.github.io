@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rolls on Mark Frandson</title>
-    <link>http://localhost:1313/tags/rolls/</link>
+    <link>https://markfrandson.dev/tags/rolls/</link>
     <description>Recent content in Rolls on Mark Frandson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mark Frandson</copyright>
-    <lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/rolls/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://markfrandson.dev/tags/rolls/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crescent Rolls</title>
-      <link>http://localhost:1313/recipes/crescentrolls/</link>
+      <link>https://markfrandson.dev/recipes/crescentrolls/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/crescentrolls/</guid>
+      <guid>https://markfrandson.dev/recipes/crescentrolls/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/crescentrolls/featured-crescent-rolls.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/crescentrolls/featured-crescent-rolls.jpg" />
     </item>
     
     <item>
       <title>Pop Overs</title>
-      <link>http://localhost:1313/recipes/popovers/</link>
+      <link>https://markfrandson.dev/recipes/popovers/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/popovers/</guid>
+      <guid>https://markfrandson.dev/recipes/popovers/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/popovers/featured-popOvers.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/popovers/featured-popOvers.webp" />
     </item>
     
     <item>
       <title>Brioche Dinner Rolls</title>
-      <link>http://localhost:1313/recipes/briochedinnerrolls/</link>
+      <link>https://markfrandson.dev/recipes/briochedinnerrolls/</link>
       <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/briochedinnerrolls/</guid>
+      <guid>https://markfrandson.dev/recipes/briochedinnerrolls/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/briochedinnerrolls/featured-Dinner-Rolls.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/briochedinnerrolls/featured-Dinner-Rolls.webp" />
     </item>
     
   </channel>

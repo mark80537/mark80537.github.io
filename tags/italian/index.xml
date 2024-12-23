@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Italian on Mark Frandson</title>
-    <link>http://localhost:1313/tags/italian/</link>
+    <link>https://markfrandson.dev/tags/italian/</link>
     <description>Recent content in Italian on Mark Frandson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mark Frandson</copyright>
-    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/italian/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://markfrandson.dev/tags/italian/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meatballs</title>
-      <link>http://localhost:1313/recipes/meatballs/</link>
+      <link>https://markfrandson.dev/recipes/meatballs/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/meatballs/</guid>
+      <guid>https://markfrandson.dev/recipes/meatballs/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/meatballs/featured-Meatballs.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/meatballs/featured-Meatballs.webp" />
     </item>
     
     <item>
       <title>Tomato Sauce</title>
-      <link>http://localhost:1313/recipes/tomatosauce/</link>
+      <link>https://markfrandson.dev/recipes/tomatosauce/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/tomatosauce/</guid>
+      <guid>https://markfrandson.dev/recipes/tomatosauce/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/tomatosauce/featured-tomato-sauce.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/tomatosauce/featured-tomato-sauce.jpg" />
     </item>
     
   </channel>
