@@ -2,130 +2,130 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dessert on Mark Frandson</title>
-    <link>https://markfrandson.dev/tags/dessert/</link>
+    <link>http://localhost:1313/tags/dessert/</link>
     <description>Recent content in Dessert on Mark Frandson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mark Frandson</copyright>
-    <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://markfrandson.dev/tags/dessert/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/dessert/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blueberry Buckle</title>
-      <link>https://markfrandson.dev/recipes/blueberrybuckle/</link>
+      <link>http://localhost:1313/recipes/blueberrybuckle/</link>
       <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://markfrandson.dev/recipes/blueberrybuckle/</guid>
+      <guid>http://localhost:1313/recipes/blueberrybuckle/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/blueberrybuckle/featured-blueberry-buckle-coffeecake.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/blueberrybuckle/featured-blueberry-buckle-coffeecake.webp" />
     </item>
     
     <item>
       <title>Mini Pecan Pies</title>
-      <link>https://markfrandson.dev/recipes/minipecanpies/</link>
+      <link>http://localhost:1313/recipes/minipecanpies/</link>
       <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://markfrandson.dev/recipes/minipecanpies/</guid>
+      <guid>http://localhost:1313/recipes/minipecanpies/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/minipecanpies/featured-Mini-pecan-pies-3.jpg.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/minipecanpies/featured-Mini-pecan-pies-3.jpg.webp" />
     </item>
     
     <item>
       <title>Pie Dough</title>
-      <link>https://markfrandson.dev/recipes/piedough/</link>
+      <link>http://localhost:1313/recipes/piedough/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://markfrandson.dev/recipes/piedough/</guid>
+      <guid>http://localhost:1313/recipes/piedough/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/piedough/featured-pie-dough.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/piedough/featured-pie-dough.webp" />
     </item>
     
     <item>
       <title>Rice Krispi Treats</title>
-      <link>https://markfrandson.dev/recipes/ricekrispytreats/</link>
+      <link>http://localhost:1313/recipes/ricekrispytreats/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://markfrandson.dev/recipes/ricekrispytreats/</guid>
+      <guid>http://localhost:1313/recipes/ricekrispytreats/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/ricekrispytreats/featured-rice-krispi-treats.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/ricekrispytreats/featured-rice-krispi-treats.webp" />
     </item>
     
     <item>
       <title>Sponge Cake</title>
-      <link>https://markfrandson.dev/recipes/spongecake/</link>
+      <link>http://localhost:1313/recipes/spongecake/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://markfrandson.dev/recipes/spongecake/</guid>
+      <guid>http://localhost:1313/recipes/spongecake/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/spongecake/featured-sponge-cake.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/spongecake/featured-sponge-cake.jpg" />
     </item>
     
     <item>
       <title>Thumbprint Cookies</title>
-      <link>https://markfrandson.dev/recipes/thumbprintcookies/</link>
+      <link>http://localhost:1313/recipes/thumbprintcookies/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://markfrandson.dev/recipes/thumbprintcookies/</guid>
+      <guid>http://localhost:1313/recipes/thumbprintcookies/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/thumbprintcookies/featured-thumbprint-cookies.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/thumbprintcookies/featured-thumbprint-cookies.jpg" />
     </item>
     
     <item>
       <title>French Vanilla Ice Cream</title>
-      <link>https://markfrandson.dev/recipes/frenchvanillaicecream/</link>
+      <link>http://localhost:1313/recipes/frenchvanillaicecream/</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://markfrandson.dev/recipes/frenchvanillaicecream/</guid>
+      <guid>http://localhost:1313/recipes/frenchvanillaicecream/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/frenchvanillaicecream/featured-french-vanilla-ice-cream.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/frenchvanillaicecream/featured-french-vanilla-ice-cream.webp" />
     </item>
     
     <item>
       <title>Vanilla Ice Cream No Cook</title>
-      <link>https://markfrandson.dev/recipes/vanillaicecreamnocook/</link>
+      <link>http://localhost:1313/recipes/vanillaicecreamnocook/</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://markfrandson.dev/recipes/vanillaicecreamnocook/</guid>
+      <guid>http://localhost:1313/recipes/vanillaicecreamnocook/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/vanillaicecreamnocook/featured-vanilla-ice-cream.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/vanillaicecreamnocook/featured-vanilla-ice-cream.webp" />
     </item>
     
     <item>
       <title>Chocolate Chip Cookies</title>
-      <link>https://markfrandson.dev/recipes/chocolatechipcookies/</link>
+      <link>http://localhost:1313/recipes/chocolatechipcookies/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://markfrandson.dev/recipes/chocolatechipcookies/</guid>
+      <guid>http://localhost:1313/recipes/chocolatechipcookies/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/chocolatechipcookies/featured-chocolate-chip-cookie.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/chocolatechipcookies/featured-chocolate-chip-cookie.webp" />
     </item>
     
     <item>
       <title>Devil&#39;s Food Cake</title>
-      <link>https://markfrandson.dev/recipes/devilsfoodcake/</link>
+      <link>http://localhost:1313/recipes/devilsfoodcake/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://markfrandson.dev/recipes/devilsfoodcake/</guid>
+      <guid>http://localhost:1313/recipes/devilsfoodcake/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/devilsfoodcake/featured-Devils-Food-Cake.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/devilsfoodcake/featured-Devils-Food-Cake.webp" />
     </item>
     
     <item>
       <title>Chocolate Mint Sandwich Cookies</title>
-      <link>https://markfrandson.dev/recipes/chocolatmintsandwichcookies/</link>
+      <link>http://localhost:1313/recipes/chocolatmintsandwichcookies/</link>
       <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://markfrandson.dev/recipes/chocolatmintsandwichcookies/</guid>
+      <guid>http://localhost:1313/recipes/chocolatmintsandwichcookies/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/chocolatmintsandwichcookies/featured-Chocolate-Mint-Sandwich.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/chocolatmintsandwichcookies/featured-Chocolate-Mint-Sandwich.webp" />
     </item>
     
     <item>
       <title>Cream Cheese Sugar Cookies</title>
-      <link>https://markfrandson.dev/recipes/creamcheesesugarcookies/</link>
+      <link>http://localhost:1313/recipes/creamcheesesugarcookies/</link>
       <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://markfrandson.dev/recipes/creamcheesesugarcookies/</guid>
+      <guid>http://localhost:1313/recipes/creamcheesesugarcookies/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/creamcheesesugarcookies/featured-creamcheesesugarcookies.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/creamcheesesugarcookies/featured-creamcheesesugarcookies.jpg" />
     </item>
     
   </channel>

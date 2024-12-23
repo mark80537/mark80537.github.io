@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Soup on Mark Frandson</title>
-    <link>https://markfrandson.dev/tags/soup/</link>
+    <link>http://localhost:1313/tags/soup/</link>
     <description>Recent content in Soup on Mark Frandson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mark Frandson</copyright>
-    <lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://markfrandson.dev/tags/soup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/soup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tailgate Chili</title>
-      <link>https://markfrandson.dev/recipes/tailgatechili/</link>
+      <link>http://localhost:1313/recipes/tailgatechili/</link>
       <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://markfrandson.dev/recipes/tailgatechili/</guid>
+      <guid>http://localhost:1313/recipes/tailgatechili/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/tailgatechili/featured-chili.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/tailgatechili/featured-chili.webp" />
     </item>
     
   </channel>

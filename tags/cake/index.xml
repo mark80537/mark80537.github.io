@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cake on Mark Frandson</title>
-    <link>https://markfrandson.dev/tags/cake/</link>
+    <link>http://localhost:1313/tags/cake/</link>
     <description>Recent content in Cake on Mark Frandson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mark Frandson</copyright>
-    <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://markfrandson.dev/tags/cake/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/cake/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blueberry Buckle</title>
-      <link>https://markfrandson.dev/recipes/blueberrybuckle/</link>
+      <link>http://localhost:1313/recipes/blueberrybuckle/</link>
       <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://markfrandson.dev/recipes/blueberrybuckle/</guid>
+      <guid>http://localhost:1313/recipes/blueberrybuckle/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/blueberrybuckle/featured-blueberry-buckle-coffeecake.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/blueberrybuckle/featured-blueberry-buckle-coffeecake.webp" />
     </item>
     
     <item>
       <title>Sponge Cake</title>
-      <link>https://markfrandson.dev/recipes/spongecake/</link>
+      <link>http://localhost:1313/recipes/spongecake/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://markfrandson.dev/recipes/spongecake/</guid>
+      <guid>http://localhost:1313/recipes/spongecake/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/spongecake/featured-sponge-cake.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/spongecake/featured-sponge-cake.jpg" />
     </item>
     
     <item>
       <title>Devil&#39;s Food Cake</title>
-      <link>https://markfrandson.dev/recipes/devilsfoodcake/</link>
+      <link>http://localhost:1313/recipes/devilsfoodcake/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://markfrandson.dev/recipes/devilsfoodcake/</guid>
+      <guid>http://localhost:1313/recipes/devilsfoodcake/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/devilsfoodcake/featured-Devils-Food-Cake.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/devilsfoodcake/featured-Devils-Food-Cake.webp" />
     </item>
     
   </channel>

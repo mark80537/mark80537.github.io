@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Os on Mark Frandson</title>
-    <link>https://markfrandson.dev/tags/os/</link>
+    <link>http://localhost:1313/tags/os/</link>
     <description>Recent content in Os on Mark Frandson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mark Frandson</copyright>
-    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://markfrandson.dev/tags/os/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/os/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pop OS</title>
-      <link>https://markfrandson.dev/notes/popos/</link>
+      <link>http://localhost:1313/notes/popos/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://markfrandson.dev/notes/popos/</guid>
+      <guid>http://localhost:1313/notes/popos/</guid>
       <description>An open source version based on Ubuntu 22.04</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/notes/popos/featured-pop-os.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/notes/popos/featured-pop-os.webp" />
     </item>
     
     <item>
       <title>Virtual Machine Manager</title>
-      <link>https://markfrandson.dev/notes/virtualmachinemanager/</link>
+      <link>http://localhost:1313/notes/virtualmachinemanager/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://markfrandson.dev/notes/virtualmachinemanager/</guid>
+      <guid>http://localhost:1313/notes/virtualmachinemanager/</guid>
       <description>An open source version based on Ubuntu 22.04</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/notes/virtualmachinemanager/featured-virtual-machine-manager.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/notes/virtualmachinemanager/featured-virtual-machine-manager.webp" />
     </item>
     
     <item>
       <title>Windows 11 Virtual Machine</title>
-      <link>https://markfrandson.dev/notes/windows11virtualmachine/</link>
+      <link>http://localhost:1313/notes/windows11virtualmachine/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://markfrandson.dev/notes/windows11virtualmachine/</guid>
+      <guid>http://localhost:1313/notes/windows11virtualmachine/</guid>
       <description>An open source version based on Ubuntu 22.04</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/notes/windows11virtualmachine/featured-windows11-virtual-machine.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/notes/windows11virtualmachine/featured-windows11-virtual-machine.webp" />
     </item>
     
   </channel>

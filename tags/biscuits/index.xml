@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Biscuits on Mark Frandson</title>
-    <link>https://markfrandson.dev/tags/biscuits/</link>
+    <link>http://localhost:1313/tags/biscuits/</link>
     <description>Recent content in Biscuits on Mark Frandson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mark Frandson</copyright>
-    <lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://markfrandson.dev/tags/biscuits/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/biscuits/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Buttermilk Biscuits</title>
-      <link>https://markfrandson.dev/recipes/buttermilkbiscuits/</link>
+      <link>http://localhost:1313/recipes/buttermilkbiscuits/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://markfrandson.dev/recipes/buttermilkbiscuits/</guid>
+      <guid>http://localhost:1313/recipes/buttermilkbiscuits/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://markfrandson.dev/recipes/buttermilkbiscuits/featured-Buttermilk-Biscuits.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recipes/buttermilkbiscuits/featured-Buttermilk-Biscuits.webp" />
     </item>
     
   </channel>

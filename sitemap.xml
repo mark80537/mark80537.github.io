@@ -3,223 +3,223 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://markfrandson.dev/recipes/blueberrybuckle/</loc>
+    <loc>http://localhost:1313/recipes/blueberrybuckle/</loc>
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/recipes/</loc>
+    <loc>http://localhost:1313/recipes/</loc>
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/notes/blueirissecurity/</loc>
+    <loc>http://localhost:1313/notes/blueirissecurity/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/notes/</loc>
+    <loc>http://localhost:1313/notes/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/recipes/minipecanpies/</loc>
+    <loc>http://localhost:1313/recipes/minipecanpies/</loc>
     <lastmod>2024-11-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/notes/hugoandblowfish/</loc>
+    <loc>http://localhost:1313/notes/hugoandblowfish/</loc>
     <lastmod>2024-10-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/notes/dockerdesktop/</loc>
+    <loc>http://localhost:1313/notes/dockerdesktop/</loc>
     <lastmod>2024-10-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/recipes/bbqdryrub/</loc>
+    <loc>http://localhost:1313/recipes/bbqdryrub/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/recipes/buttermilkbiscuits/</loc>
+    <loc>http://localhost:1313/recipes/buttermilkbiscuits/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/recipes/crescentrolls/</loc>
+    <loc>http://localhost:1313/recipes/crescentrolls/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/recipes/piedough/</loc>
+    <loc>http://localhost:1313/recipes/piedough/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/recipes/popovers/</loc>
+    <loc>http://localhost:1313/recipes/popovers/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/recipes/ricekrispytreats/</loc>
+    <loc>http://localhost:1313/recipes/ricekrispytreats/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/recipes/sloppyjoes/</loc>
+    <loc>http://localhost:1313/recipes/sloppyjoes/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/recipes/spongecake/</loc>
+    <loc>http://localhost:1313/recipes/spongecake/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/recipes/thumbprintcookies/</loc>
+    <loc>http://localhost:1313/recipes/thumbprintcookies/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/recipes/meatballs/</loc>
+    <loc>http://localhost:1313/recipes/meatballs/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/recipes/meatloaf/</loc>
+    <loc>http://localhost:1313/recipes/meatloaf/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/notes/obsidian/</loc>
+    <loc>http://localhost:1313/notes/obsidian/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/notes/popos/</loc>
+    <loc>http://localhost:1313/notes/popos/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/recipes/tomatosauce/</loc>
+    <loc>http://localhost:1313/recipes/tomatosauce/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/notes/virtualmachinemanager/</loc>
+    <loc>http://localhost:1313/notes/virtualmachinemanager/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/notes/windows11virtualmachine/</loc>
+    <loc>http://localhost:1313/notes/windows11virtualmachine/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/recipes/frenchvanillaicecream/</loc>
+    <loc>http://localhost:1313/recipes/frenchvanillaicecream/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/recipes/vanillaicecreamnocook/</loc>
+    <loc>http://localhost:1313/recipes/vanillaicecreamnocook/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/recipes/chocolatechipcookies/</loc>
+    <loc>http://localhost:1313/recipes/chocolatechipcookies/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/recipes/devilsfoodcake/</loc>
+    <loc>http://localhost:1313/recipes/devilsfoodcake/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/recipes/flourtortillas/</loc>
+    <loc>http://localhost:1313/recipes/flourtortillas/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/recipes/tacoseasongroundbeef/</loc>
+    <loc>http://localhost:1313/recipes/tacoseasongroundbeef/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/recipes/tailgatechili/</loc>
+    <loc>http://localhost:1313/recipes/tailgatechili/</loc>
     <lastmod>2024-09-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/recipes/briocheburgerbuns/</loc>
+    <loc>http://localhost:1313/recipes/briocheburgerbuns/</loc>
     <lastmod>2024-08-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/recipes/briochedinnerrolls/</loc>
+    <loc>http://localhost:1313/recipes/briochedinnerrolls/</loc>
     <lastmod>2024-08-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/recipes/chocolatmintsandwichcookies/</loc>
+    <loc>http://localhost:1313/recipes/chocolatmintsandwichcookies/</loc>
     <lastmod>2024-08-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/recipes/creamcheesesugarcookies/</loc>
+    <loc>http://localhost:1313/recipes/creamcheesesugarcookies/</loc>
     <lastmod>2024-08-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/reads/gettingthingsdone/</loc>
+    <loc>http://localhost:1313/reads/gettingthingsdone/</loc>
     <lastmod>2024-08-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://markfrandson.dev/reads/</loc>
+    <loc>http://localhost:1313/reads/</loc>
     <lastmod>2024-08-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
